@@ -1,5 +1,5 @@
 ---
-title: Sage Kirk yyyy s
+title: Sage Kirk yyyy u
 date: 2018-11-19 00:47:58 +0000
 image: "/team/sage-kirk-485982-unsplash.jpg"
 jobtitle: Accountant
