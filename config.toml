@@ -23,3 +23,8 @@ name = "Services2"
 url = "/services2/"
 weight = 5
 [params]
+
+
+[outputs]
+ home = [ "HTML", "AMP", "RSS"]
+ page = [ "HTML"]
