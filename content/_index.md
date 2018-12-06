@@ -1,7 +1,6 @@
 ---
 title: Home
 date: 2018-02-12 08:37:57 +0000
-draft: true
 
 ---
 # Serif  - 雨果商业主题。
