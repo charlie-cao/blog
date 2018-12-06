@@ -2,6 +2,15 @@ baseURL = "https://www.lapro.io/blog/"
 languageCode = "en-us"
 theme = "hugo-serif-theme"
 title = "Lapro "
+[mediaTypes]
+  [mediaTypes."text/plain"]
+    suffix = "md"
+
+[outputFormats.MarkDown]
+  mediaType = "text/plain"
+  isPlainText = true
+  isHTML = false
+  
 [[menu.main]]
 name = "Contact"
 url = "/contact/"
@@ -24,7 +33,3 @@ url = "/services2/"
 weight = 5
 [params]
 
-
-[outputs]
- home = [ "HTML", "AMP", "RSS"]
- page = [ "HTML"]
