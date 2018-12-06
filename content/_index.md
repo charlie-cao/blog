@@ -1,8 +1,9 @@
 ---
 title: Home
 date: 2018-02-12 08:37:57 +0000
+draft: true
 
 ---
-# Serif - Hugo  Business Theme.
+# Serif  - 雨果商业主题。
 
-Our business helps hundreds of customers with their accounting and taxation needs each year.
+我们的业务每年帮助数百名客户满足其会计和税务需求。
