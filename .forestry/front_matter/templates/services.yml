@@ -2,4 +2,8 @@
 label: Services
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  label: aaa
+  name: aaa
+- type: text
